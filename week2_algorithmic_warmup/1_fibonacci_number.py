@@ -7,3 +7,4 @@ for x in range(n_fib):
     fib_list.append(elem)
 
 print(fib_list[-2])
+#Good job! (Max time used: 0.03/5.00, max memory used: 9625600/536870912.)

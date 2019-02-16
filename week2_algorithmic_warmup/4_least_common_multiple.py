@@ -21,7 +21,7 @@ def lcm(a,b):
 
 a,b = input().split()
 a,b = int(a),int(b)
-# a,b = 226553150,1023473145
 lcm_ = lcm(a,b)
 
 print(lcm_)
+#Good job! (Max time used: 0.05/5.00, max memory used: 9932800/536870912.)
