@@ -125,3 +125,5 @@ if __name__ == "__main__":
     num_list = [int(x) for x in input().split()]
     my_solution = max_pairwise_product(num_list)
     print(my_solution)
+
+# Good job! (Max time used: 0.20/5.00, max memory used: 28344320/536870912.)
