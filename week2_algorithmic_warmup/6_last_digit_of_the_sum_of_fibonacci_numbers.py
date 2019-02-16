@@ -12,3 +12,11 @@ print(s)
 print(927372692193078999175)
 
 print(s%10)
+# Failed case #13/17: time limit exceeded
+# Input:
+# 832564823476
+
+# Your output:
+
+# stderr:
+# (Time used: 9.98/5.00, memory used: 9588736/536870912.)
